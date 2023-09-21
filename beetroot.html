@@ -1,72 +1,45 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.25.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.14.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.22.2"></script>
 </head>
-
 <body>
-  <div id="vis"></div>
-  <script type="text/javascript">
-    var spec = {
-      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-      "width": 800,
-      "height": 500,
-      "projection": {
-        "type": "albersUsa"
+  <div id="vis"/>
+  <script>
+    const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 500,
+  "projection": {"type": "albersUsa"},
+  "layer": [
+    {
+      "data": {
+        "url": "http://raw.githubusercontent.com/terrobladeD/beetroot/master/data/us-10m.json",
+        "format": {"type": "topojson", "feature": "states"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+    },
+    {
+      "data": {  "url": "http://raw.githubusercontent.com/terrobladeD/beetroot/master/data/us-state-capitals.json"
+},
+      "encoding": {
+        "longitude": {"field": "lon", "type": "quantitative"},
+        "latitude": {"field": "lat", "type": "quantitative"}
       },
       "layer": [
+        {"mark": {"type": "circle", "color": "orange"}},
         {
-          "data": {
-            "url": "data/us-10m.json",
-            "format": {
-              "type": "topojson",
-              "feature": "states"
-            }
-          },
-          "mark": {
-            "type": "geoshape",
-            "fill": "lightgray",
-            "stroke": "white"
-          }
-        },
-        {
-          "data": {
-            "url": "data/us-state-capitals.json"
-          },
-          "encoding": {
-            "longitude": {
-              "field": "lon",
-              "type": "quantitative"
-            },
-            "latitude": {
-              "field": "lat",
-              "type": "quantitative"
-            }
-          },
-          "layer": [{
-            "mark": {
-              "type": "circle",
-              "color": "orange"
-            }
-          }, {
-            "mark": {
-              "type": "text",
-              "dy": -10
-            },
-            "encoding": {
-              "text": { "field": "city", "type": "nominal" }
-            }
-          }]
+          "mark": {"type": "text", "dy": -10},
+          "encoding": {"text": {"field": "city", "type": "nominal"}}
         }
       ]
     }
-      ;
-
-    vegaEmbed('#vis', spec);
+  ],
+  "config": {}
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
   </script>
 </body>
-
 </html>
