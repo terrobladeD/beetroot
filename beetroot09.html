@@ -10,17 +10,22 @@
 <body>
     <h1>Chinese GDP by Province Data Visiualisation</h1>
     <h5>Powered by <b>Yi Chen</b></h5>
-    <div>Select the year you want to see:
+    <div>Year filter
         <input type="range" id="yearSlider" min="2002" max="2019" value="2002" oninput="updateChart()" />
         <span id="selectedYear">2002</span>
     </div>
     <div id="vis2"></div>
 
 
-    <div><b>China</b> - a vast and diverse country - exhibits remarkable differences in its economic landscape.<br/>As we learn more about China, we find that different regions contribute to the country's economy in unique ways. <br/>Contrasting between these regions, from the bustling metropolises that drive high GDP growth to the regions with fast-growing incomes, paints a complete picture of China's economy. <br/>Understanding these regional differences not only provides insight into China's current economic health, but also identifies potential areas of growth and opportunity.</div>
+    <div><b>China</b> - a vast and diverse country - exhibits remarkable differences in its economic landscape.<br />As
+        we learn more about China, we find that different regions contribute to the country's economy in unique ways.
+        <br />Contrasting between these regions, from the bustling metropolises that drive high GDP growth to the
+        regions with fast-growing incomes, paints a complete picture of China's economy. <br />Understanding these
+        regional differences not only provides insight into China's current economic health, but also identifies
+        potential areas of growth and opportunity.</div>
     <div style="display: flex">
-        <div id="vis1" style="width: 45vw;overflow: hidden;"></div>
-        <div id="vis3" style="width: 45vw;overflow: hidden;"></div>
+        <div id="vis1" style="width: 58vw;overflow: hidden;"></div>
+        <div id="vis3" style="width: 42vw;overflow: hidden;"></div>
     </div>
 
 
@@ -761,13 +766,13 @@
                 "values": transformedData
             },
             "padding": {
-                "left": 50,  // padding for y-axis labels
-                "bottom": 40,  // padding for x-axis labels
-                "right": 10,  // padding for legend
-                "top": 50
+                "left": 10,  // padding for y-axis labels
+                "bottom": 30,  // padding for x-axis labels
+                "right": 50,  // padding for legend
+                "top": 20
             },
-            "width": 720, // reduced width
-            "height": 500, // reduced height
+            "width": 550, // reduced width
+            "height": 350, // reduced height
             "config": {
                 "axis": {
                     "labelFontSize": 12, // adjust as needed
@@ -776,7 +781,8 @@
                 "legend": {
                     "labelFontSize": 12, // adjust as needed
                     "titleFontSize": 14,  // adjust as needed
-                    "symbolLimit": 50
+                    "symbolLimit": 50,
+                    "columns": 2
                 }
             },
             "selection": {
@@ -4082,13 +4088,19 @@
                 "values": transformedData3
             },
             "padding": {
-                "left": 50,  // padding for y-axis labels
-                "bottom": 40,  // padding for x-axis labels
-                "right": 50,  // padding for legend
-                "top": 50
+                "left": 10,  // padding for y-axis labels
+                "bottom": 30,  // padding for x-axis labels
+                "right": 10,  // padding for legend
+                "top": 20
             },
-            "width": 720,
-            "height": 500,
+            "width": 500, // reduced width
+            "height": 350, // reduced height
+            "config": {
+                "axis": {
+                    "labelFontSize": 12, // adjust as needed
+                    "titleFontSize": 14  // adjust as needed
+                }
+            },
             "mark": "boxplot",
             "encoding": {
                 "x": {
