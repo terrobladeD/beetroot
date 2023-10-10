@@ -10,8 +10,6 @@
 <body>
     <h1>Chinese GDP by Province Data Visiualisation</h1>
     <h5>Powered by <b>Yi Chen</b></h5>
-
-    <div>这是中间的部分1</div>
     <div>Select the year you want to see:
         <input type="range" id="yearSlider" min="2002" max="2019" value="2002" oninput="updateChart()" />
         <span id="selectedYear">2002</span>
@@ -19,10 +17,10 @@
     <div id="vis2"></div>
 
 
-    <div>这是中间的部分2</div>
+    <div><b>China</b> - a vast and diverse country - exhibits remarkable differences in its economic landscape.<br/>As we learn more about China, we find that different regions contribute to the country's economy in unique ways. <br/>Contrasting between these regions, from the bustling metropolises that drive high GDP growth to the regions with fast-growing incomes, paints a complete picture of China's economy. <br/>Understanding these regional differences not only provides insight into China's current economic health, but also identifies potential areas of growth and opportunity.</div>
     <div style="display: flex">
-        <div id="vis1" style="width: 45%;"></div>
-        <div id="vis3" style="width: 45%;"></div>
+        <div id="vis1" style="width: 45vw;overflow: hidden;"></div>
+        <div id="vis3" style="width: 45vw;overflow: hidden;"></div>
     </div>
 
 
@@ -758,7 +756,7 @@
 
         const spec = {
             "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-            "title": "GDP Growth (2000-2019)",
+            "title": "China GDP Growth (2000-2019)",
             "data": {
                 "values": transformedData
             },
@@ -803,7 +801,10 @@
             "transform": [
                 { "filter": { "selection": "region_filter" } }
             ],
-            "mark": "line",
+            "mark": {
+                "type": "line",
+                "point": true
+            },
             "encoding": {
                 "x": {
                     "field": "Year",
@@ -4076,7 +4077,7 @@
 
         const spec3 = {
             "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-            "title": "Income Distribution by Province",
+            "title": "2022 China Income Distribution by Province",
             "data": {
                 "values": transformedData3
             },
