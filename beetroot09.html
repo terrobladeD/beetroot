@@ -20,10 +20,10 @@
 
 
     <div>这是中间的部分2</div>
-    <div id="vis1"></div>
-
-    <div>这是中间的部分3</div>
-    <div id="vis3"></div>
+    <div style="display: flex">
+        <div id="vis1" style="width: 45%;"></div>
+        <div id="vis3" style="width: 45%;"></div>
+    </div>
 
 
 
@@ -765,7 +765,7 @@
             "padding": {
                 "left": 50,  // padding for y-axis labels
                 "bottom": 40,  // padding for x-axis labels
-                "right": 150,  // padding for legend
+                "right": 10,  // padding for legend
                 "top": 50
             },
             "width": 720, // reduced width
@@ -835,8 +835,8 @@
         const baseSpec = {
             "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
             "title": "China GDP Analysis by Province from 2002-2019",
-            "width": 1000,
-            "height": 800,
+            "width": 1200,
+            "height": 700,
             "projection": { "type": "mercator", "center": [104, 37], "scale": 700 },
             "data": {
                 "url": "https://gw.alipayobjects.com/os/alisis/geo-data-v0.1.2/choropleth-data/country/100000_country_province.topo.json",
@@ -4080,7 +4080,13 @@
             "data": {
                 "values": transformedData3
             },
-            "width": 800,
+            "padding": {
+                "left": 50,  // padding for y-axis labels
+                "bottom": 40,  // padding for x-axis labels
+                "right": 50,  // padding for legend
+                "top": 50
+            },
+            "width": 720,
             "height": 500,
             "mark": "boxplot",
             "encoding": {
