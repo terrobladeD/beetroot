@@ -5592,6 +5592,12 @@
                     "bind": {
                         "Year": { "input": "range", "min": 2012, "max": 2019, "step": 1 }
                     }
+                },
+                "regionFilter": {
+                    "type": "multi",
+                    "fields": ["Region"],
+                    "toggle": "event.shiftKey",
+                    "clear": "event.altKey"
                 }
             },
             "mark": {
@@ -5627,6 +5633,7 @@
                     }
                 }, "tooltip": [
                     { "field": "Province", "type": "nominal" },
+                    { "field": "Region", "type": "nominal" },
                     { "field": "Year", "type": "ordinal" },
                     { "field": "Population(million)", "type": "quantitative" },
                     { "field": "fiscal revenue(billion USD)", "type": "quantitative" },
@@ -5634,7 +5641,8 @@
                 ]
             },
             "transform": [
-                { "filter": { "selection": "yearSlider" } }
+                { "filter": { "selection": "yearSlider" } },
+                { "filter": { "selection": "regionFilter" } }
             ]
         };
         vegaEmbed("#vis4", spec4, { mode: "vega-lite" }).then(console.log).catch(console.warn);
