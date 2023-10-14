@@ -1,0 +1,1738 @@
+[
+ {
+   "Province": "Anhui",
+   "Year": 2012,
+   "Population(million)": 59.6,
+   "fiscal revenue(billion USD)": 25.6,
+   "fical expenditure(billion USD)": 23.5
+ },
+ {
+   "Province": "Anhui",
+   "Year": 2013,
+   "Population(million)": 59.7,
+   "fiscal revenue(billion USD)": 29.6,
+   "fical expenditure(billion USD)": 30.6
+ },
+ {
+   "Province": "Anhui",
+   "Year": 2014,
+   "Population(million)": 59.9,
+   "fiscal revenue(billion USD)": 31.7,
+   "fical expenditure(billion USD)": 37
+ },
+ {
+   "Province": "Anhui",
+   "Year": 2015,
+   "Population(million)": 60.3,
+   "fiscal revenue(billion USD)": 35.1,
+   "fical expenditure(billion USD)": 47.2
+ },
+ {
+   "Province": "Anhui",
+   "Year": 2016,
+   "Population(million)": 60.8,
+   "fiscal revenue(billion USD)": 38.2,
+   "fical expenditure(billion USD)": 56.6
+ },
+ {
+   "Province": "Anhui",
+   "Year": 2017,
+   "Population(million)": 61.4,
+   "fiscal revenue(billion USD)": 40.2,
+   "fical expenditure(billion USD)": 62.1
+ },
+ {
+   "Province": "Anhui",
+   "Year": 2018,
+   "Population(million)": 62,
+   "fiscal revenue(billion USD)": 43.6,
+   "fical expenditure(billion USD)": 66.6
+ },
+ {
+   "Province": "Anhui",
+   "Year": 2019,
+   "Population(million)": 62.5,
+   "fiscal revenue(billion USD)": 45.5,
+   "fical expenditure(billion USD)": 74.8
+ },
+ {
+   "Province": "Beijing",
+   "Year": 2012,
+   "Population(million)": 19.6,
+   "fiscal revenue(billion USD)": 47.4,
+   "fical expenditure(billion USD)": 28
+ },
+ {
+   "Province": "Beijing",
+   "Year": 2013,
+   "Population(million)": 20.2,
+   "fiscal revenue(billion USD)": 52.3,
+   "fical expenditure(billion USD)": 33.1
+ },
+ {
+   "Province": "Beijing",
+   "Year": 2014,
+   "Population(million)": 20.7,
+   "fiscal revenue(billion USD)": 57.5,
+   "fical expenditure(billion USD)": 38.8
+ },
+ {
+   "Province": "Beijing",
+   "Year": 2015,
+   "Population(million)": 21.2,
+   "fiscal revenue(billion USD)": 67.5,
+   "fical expenditure(billion USD)": 46.4
+ },
+ {
+   "Province": "Beijing",
+   "Year": 2016,
+   "Population(million)": 21.5,
+   "fiscal revenue(billion USD)": 72.6,
+   "fical expenditure(billion USD)": 52.6
+ },
+ {
+   "Province": "Beijing",
+   "Year": 2017,
+   "Population(million)": 21.7,
+   "fiscal revenue(billion USD)": 77.6,
+   "fical expenditure(billion USD)": 59.6
+ },
+ {
+   "Province": "Beijing",
+   "Year": 2018,
+   "Population(million)": 21.7,
+   "fiscal revenue(billion USD)": 82.7,
+   "fical expenditure(billion USD)": 64.6
+ },
+ {
+   "Province": "Beijing",
+   "Year": 2019,
+   "Population(million)": 21.9,
+   "fiscal revenue(billion USD)": 83.1,
+   "fical expenditure(billion USD)": 82
+ },
+ {
+   "Province": "Fujian",
+   "Year": 2012,
+   "Population(million)": 36.9,
+   "fiscal revenue(billion USD)": 25.4,
+   "fical expenditure(billion USD)": 16.3
+ },
+ {
+   "Province": "Fujian",
+   "Year": 2013,
+   "Population(million)": 37.2,
+   "fiscal revenue(billion USD)": 30.3,
+   "fical expenditure(billion USD)": 20.2
+ },
+ {
+   "Province": "Fujian",
+   "Year": 2014,
+   "Population(million)": 37.5,
+   "fiscal revenue(billion USD)": 33.7,
+   "fical expenditure(billion USD)": 24.2
+ },
+ {
+   "Province": "Fujian",
+   "Year": 2015,
+   "Population(million)": 37.7,
+   "fiscal revenue(billion USD)": 36.3,
+   "fical expenditure(billion USD)": 31.4
+ },
+ {
+   "Province": "Fujian",
+   "Year": 2016,
+   "Population(million)": 38.1,
+   "fiscal revenue(billion USD)": 37.9,
+   "fical expenditure(billion USD)": 37.3
+ },
+ {
+   "Province": "Fujian",
+   "Year": 2017,
+   "Population(million)": 38.4,
+   "fiscal revenue(billion USD)": 40.1,
+   "fical expenditure(billion USD)": 43.8
+ },
+ {
+   "Province": "Fujian",
+   "Year": 2018,
+   "Population(million)": 38.7,
+   "fiscal revenue(billion USD)": 43,
+   "fical expenditure(billion USD)": 47.2
+ },
+ {
+   "Province": "Fujian",
+   "Year": 2019,
+   "Population(million)": 39.1,
+   "fiscal revenue(billion USD)": 43.6,
+   "fical expenditure(billion USD)": 57.2
+ },
+ {
+   "Province": "Gansu",
+   "Year": 2012,
+   "Population(million)": 25.6,
+   "fiscal revenue(billion USD)": 7.4,
+   "fical expenditure(billion USD)": 13.8
+ },
+ {
+   "Province": "Gansu",
+   "Year": 2013,
+   "Population(million)": 25.6,
+   "fiscal revenue(billion USD)": 8.7,
+   "fical expenditure(billion USD)": 17.8
+ },
+ {
+   "Province": "Gansu",
+   "Year": 2014,
+   "Population(million)": 25.8,
+   "fiscal revenue(billion USD)": 9.6,
+   "fical expenditure(billion USD)": 21
+ },
+ {
+   "Province": "Gansu",
+   "Year": 2015,
+   "Population(million)": 25.8,
+   "fiscal revenue(billion USD)": 10.6,
+   "fical expenditure(billion USD)": 25.6
+ },
+ {
+   "Province": "Gansu",
+   "Year": 2016,
+   "Population(million)": 25.9,
+   "fiscal revenue(billion USD)": 11.2,
+   "fical expenditure(billion USD)": 29.4
+ },
+ {
+   "Province": "Gansu",
+   "Year": 2017,
+   "Population(million)": 26,
+   "fiscal revenue(billion USD)": 11.7,
+   "fical expenditure(billion USD)": 33
+ },
+ {
+   "Province": "Gansu",
+   "Year": 2018,
+   "Population(million)": 26.1,
+   "fiscal revenue(billion USD)": 12.4,
+   "fical expenditure(billion USD)": 36.3
+ },
+ {
+   "Province": "Gansu",
+   "Year": 2019,
+   "Population(million)": 26.2,
+   "fiscal revenue(billion USD)": 12.1,
+   "fical expenditure(billion USD)": 42.3
+ },
+ {
+   "Province": "Guangdong",
+   "Year": 2012,
+   "Population(million)": 104.4,
+   "fiscal revenue(billion USD)": 89,
+   "fical expenditure(billion USD)": 54
+ },
+ {
+   "Province": "Guangdong",
+   "Year": 2013,
+   "Population(million)": 105.1,
+   "fiscal revenue(billion USD)": 101.2,
+   "fical expenditure(billion USD)": 61.9
+ },
+ {
+   "Province": "Guangdong",
+   "Year": 2014,
+   "Population(million)": 105.9,
+   "fiscal revenue(billion USD)": 115.2,
+   "fical expenditure(billion USD)": 77.5
+ },
+ {
+   "Province": "Guangdong",
+   "Year": 2015,
+   "Population(million)": 106.4,
+   "fiscal revenue(billion USD)": 133.8,
+   "fical expenditure(billion USD)": 95.9
+ },
+ {
+   "Province": "Guangdong",
+   "Year": 2016,
+   "Population(million)": 107.2,
+   "fiscal revenue(billion USD)": 148.4,
+   "fical expenditure(billion USD)": 105.5
+ },
+ {
+   "Province": "Guangdong",
+   "Year": 2017,
+   "Population(million)": 108.5,
+   "fiscal revenue(billion USD)": 161.7,
+   "fical expenditure(billion USD)": 120.2
+ },
+ {
+   "Province": "Guangdong",
+   "Year": 2018,
+   "Population(million)": 110,
+   "fiscal revenue(billion USD)": 172.9,
+   "fical expenditure(billion USD)": 130.8
+ },
+ {
+   "Province": "Guangdong",
+   "Year": 2019,
+   "Population(million)": 111.3,
+   "fiscal revenue(billion USD)": 180.8,
+   "fical expenditure(billion USD)": 183.3
+ },
+ {
+   "Province": "Guangxi",
+   "Year": 2012,
+   "Population(million)": 46.1,
+   "fiscal revenue(billion USD)": 16.7,
+   "fical expenditure(billion USD)": 18.5
+ },
+ {
+   "Province": "Guangxi",
+   "Year": 2013,
+   "Population(million)": 46.5,
+   "fiscal revenue(billion USD)": 18.8,
+   "fical expenditure(billion USD)": 23.2
+ },
+ {
+   "Province": "Guangxi",
+   "Year": 2014,
+   "Population(million)": 46.8,
+   "fiscal revenue(billion USD)": 20.3,
+   "fical expenditure(billion USD)": 28.7
+ },
+ {
+   "Province": "Guangxi",
+   "Year": 2015,
+   "Population(million)": 47.2,
+   "fiscal revenue(billion USD)": 21.6,
+   "fical expenditure(billion USD)": 36.4
+ },
+ {
+   "Province": "Guangxi",
+   "Year": 2016,
+   "Population(million)": 47.5,
+   "fiscal revenue(billion USD)": 22.2,
+   "fical expenditure(billion USD)": 42.6
+ },
+ {
+   "Province": "Guangxi",
+   "Year": 2017,
+   "Population(million)": 48,
+   "fiscal revenue(billion USD)": 23.1,
+   "fical expenditure(billion USD)": 45.8
+ },
+ {
+   "Province": "Guangxi",
+   "Year": 2018,
+   "Population(million)": 48.4,
+   "fiscal revenue(billion USD)": 24,
+   "fical expenditure(billion USD)": 49.7
+ },
+ {
+   "Province": "Guangxi",
+   "Year": 2019,
+   "Population(million)": 48.8,
+   "fiscal revenue(billion USD)": 25.9,
+   "fical expenditure(billion USD)": 58.1
+ },
+ {
+   "Province": "Guizhou",
+   "Year": 2012,
+   "Population(million)": 34.8,
+   "fiscal revenue(billion USD)": 14.5,
+   "fical expenditure(billion USD)": 15.1
+ },
+ {
+   "Province": "Guizhou",
+   "Year": 2013,
+   "Population(million)": 34.7,
+   "fiscal revenue(billion USD)": 17.2,
+   "fical expenditure(billion USD)": 19.6
+ },
+ {
+   "Province": "Guizhou",
+   "Year": 2014,
+   "Population(million)": 34.8,
+   "fiscal revenue(billion USD)": 19.5,
+   "fical expenditure(billion USD)": 23.3
+ },
+ {
+   "Province": "Guizhou",
+   "Year": 2015,
+   "Population(million)": 35,
+   "fiscal revenue(billion USD)": 21.5,
+   "fical expenditure(billion USD)": 32.1
+ },
+ {
+   "Province": "Guizhou",
+   "Year": 2016,
+   "Population(million)": 35.1,
+   "fiscal revenue(billion USD)": 22.3,
+   "fical expenditure(billion USD)": 39.4
+ },
+ {
+   "Province": "Guizhou",
+   "Year": 2017,
+   "Population(million)": 35.3,
+   "fiscal revenue(billion USD)": 23.1,
+   "fical expenditure(billion USD)": 44
+ },
+ {
+   "Province": "Guizhou",
+   "Year": 2018,
+   "Population(million)": 35.6,
+   "fiscal revenue(billion USD)": 24.7,
+   "fical expenditure(billion USD)": 50.6
+ },
+ {
+   "Province": "Guizhou",
+   "Year": 2019,
+   "Population(million)": 35.8,
+   "fiscal revenue(billion USD)": 25.2,
+   "fical expenditure(billion USD)": 56.3
+ },
+ {
+   "Province": "Hainan",
+   "Year": 2012,
+   "Population(million)": 8.7,
+   "fiscal revenue(billion USD)": 5.8,
+   "fical expenditure(billion USD)": 5.1
+ },
+ {
+   "Province": "Hainan",
+   "Year": 2013,
+   "Population(million)": 8.8,
+   "fiscal revenue(billion USD)": 6.9,
+   "fical expenditure(billion USD)": 6.9
+ },
+ {
+   "Province": "Hainan",
+   "Year": 2014,
+   "Population(million)": 8.9,
+   "fiscal revenue(billion USD)": 7.9,
+   "fical expenditure(billion USD)": 8.3
+ },
+ {
+   "Province": "Hainan",
+   "Year": 2015,
+   "Population(million)": 9,
+   "fiscal revenue(billion USD)": 9,
+   "fical expenditure(billion USD)": 11.1
+ },
+ {
+   "Province": "Hainan",
+   "Year": 2016,
+   "Population(million)": 9,
+   "fiscal revenue(billion USD)": 9.1,
+   "fical expenditure(billion USD)": 13
+ },
+ {
+   "Province": "Hainan",
+   "Year": 2017,
+   "Population(million)": 9.1,
+   "fiscal revenue(billion USD)": 9.6,
+   "fical expenditure(billion USD)": 14.4
+ },
+ {
+   "Province": "Hainan",
+   "Year": 2018,
+   "Population(million)": 9.2,
+   "fiscal revenue(billion USD)": 10.8,
+   "fical expenditure(billion USD)": 15.7
+ },
+ {
+   "Province": "Hainan",
+   "Year": 2019,
+   "Population(million)": 9.2,
+   "fiscal revenue(billion USD)": 11.6,
+   "fical expenditure(billion USD)": 17.7
+ },
+ {
+   "Province": "Hebei",
+   "Year": 2012,
+   "Population(million)": 71.9,
+   "fiscal revenue(billion USD)": 29.8,
+   "fical expenditure(billion USD)": 26.9
+ },
+ {
+   "Province": "Hebei",
+   "Year": 2013,
+   "Population(million)": 72.4,
+   "fiscal revenue(billion USD)": 32.8,
+   "fical expenditure(billion USD)": 33.5
+ },
+ {
+   "Province": "Hebei",
+   "Year": 2014,
+   "Population(million)": 72.9,
+   "fiscal revenue(billion USD)": 35,
+   "fical expenditure(billion USD)": 40.3
+ },
+ {
+   "Province": "Hebei",
+   "Year": 2015,
+   "Population(million)": 73.3,
+   "fiscal revenue(billion USD)": 37.8,
+   "fical expenditure(billion USD)": 50.5
+ },
+ {
+   "Province": "Hebei",
+   "Year": 2016,
+   "Population(million)": 73.8,
+   "fiscal revenue(billion USD)": 40.7,
+   "fical expenditure(billion USD)": 58.3
+ },
+ {
+   "Province": "Hebei",
+   "Year": 2017,
+   "Population(million)": 74.3,
+   "fiscal revenue(billion USD)": 46.2,
+   "fical expenditure(billion USD)": 63
+ },
+ {
+   "Province": "Hebei",
+   "Year": 2018,
+   "Population(million)": 74.7,
+   "fiscal revenue(billion USD)": 50.2,
+   "fical expenditure(billion USD)": 66.8
+ },
+ {
+   "Province": "Hebei",
+   "Year": 2019,
+   "Population(million)": 75.2,
+   "fiscal revenue(billion USD)": 53.4,
+   "fical expenditure(billion USD)": 80.5
+ },
+ {
+   "Province": "Henan",
+   "Year": 2012,
+   "Population(million)": 94.1,
+   "fiscal revenue(billion USD)": 29.1,
+   "fical expenditure(billion USD)": 32.6
+ },
+ {
+   "Province": "Henan",
+   "Year": 2013,
+   "Population(million)": 93.9,
+   "fiscal revenue(billion USD)": 34.5,
+   "fical expenditure(billion USD)": 41.5
+ },
+ {
+   "Province": "Henan",
+   "Year": 2014,
+   "Population(million)": 94.1,
+   "fiscal revenue(billion USD)": 39.1,
+   "fical expenditure(billion USD)": 48.8
+ },
+ {
+   "Province": "Henan",
+   "Year": 2015,
+   "Population(million)": 94.1,
+   "fiscal revenue(billion USD)": 43.1,
+   "fical expenditure(billion USD)": 60.7
+ },
+ {
+   "Province": "Henan",
+   "Year": 2016,
+   "Population(million)": 94.4,
+   "fiscal revenue(billion USD)": 45,
+   "fical expenditure(billion USD)": 71.5
+ },
+ {
+   "Province": "Henan",
+   "Year": 2017,
+   "Population(million)": 94.8,
+   "fiscal revenue(billion USD)": 48.7,
+   "fical expenditure(billion USD)": 79.7
+ },
+ {
+   "Province": "Henan",
+   "Year": 2018,
+   "Population(million)": 95.3,
+   "fiscal revenue(billion USD)": 53.8,
+   "fical expenditure(billion USD)": 86.1
+ },
+ {
+   "Province": "Henan",
+   "Year": 2019,
+   "Population(million)": 95.8,
+   "fiscal revenue(billion USD)": 57.7,
+   "fical expenditure(billion USD)": 97.1
+ },
+ {
+   "Province": "Heilongjiang",
+   "Year": 2012,
+   "Population(million)": 38.3,
+   "fiscal revenue(billion USD)": 16.6,
+   "fical expenditure(billion USD)": 22
+ },
+ {
+   "Province": "Heilongjiang",
+   "Year": 2013,
+   "Population(million)": 38.3,
+   "fiscal revenue(billion USD)": 18.2,
+   "fical expenditure(billion USD)": 26.8
+ },
+ {
+   "Province": "Heilongjiang",
+   "Year": 2014,
+   "Population(million)": 38.3,
+   "fiscal revenue(billion USD)": 18.6,
+   "fical expenditure(billion USD)": 32.2
+ },
+ {
+   "Province": "Heilongjiang",
+   "Year": 2015,
+   "Population(million)": 38.4,
+   "fiscal revenue(billion USD)": 16.7,
+   "fical expenditure(billion USD)": 39.9
+ },
+ {
+   "Province": "Heilongjiang",
+   "Year": 2016,
+   "Population(million)": 38.3,
+   "fiscal revenue(billion USD)": 16.4,
+   "fical expenditure(billion USD)": 45.3
+ },
+ {
+   "Province": "Heilongjiang",
+   "Year": 2017,
+   "Population(million)": 38.1,
+   "fiscal revenue(billion USD)": 17.8,
+   "fical expenditure(billion USD)": 48.1
+ },
+ {
+   "Province": "Heilongjiang",
+   "Year": 2018,
+   "Population(million)": 38,
+   "fiscal revenue(billion USD)": 18.3,
+   "fical expenditure(billion USD)": 49.1
+ },
+ {
+   "Province": "Heilongjiang",
+   "Year": 2019,
+   "Population(million)": 37.9,
+   "fiscal revenue(billion USD)": 18,
+   "fical expenditure(billion USD)": 57.4
+ },
+ {
+   "Province": "Hubei",
+   "Year": 2012,
+   "Population(million)": 57.3,
+   "fiscal revenue(billion USD)": 26,
+   "fical expenditure(billion USD)": 23.6
+ },
+ {
+   "Province": "Hubei",
+   "Year": 2013,
+   "Population(million)": 57.6,
+   "fiscal revenue(billion USD)": 31.3,
+   "fical expenditure(billion USD)": 29.9
+ },
+ {
+   "Province": "Hubei",
+   "Year": 2014,
+   "Population(million)": 57.8,
+   "fiscal revenue(billion USD)": 36.7,
+   "fical expenditure(billion USD)": 35.7
+ },
+ {
+   "Province": "Hubei",
+   "Year": 2015,
+   "Population(million)": 58,
+   "fiscal revenue(billion USD)": 42.9,
+   "fical expenditure(billion USD)": 45.9
+ },
+ {
+   "Province": "Hubei",
+   "Year": 2016,
+   "Population(million)": 58.2,
+   "fiscal revenue(billion USD)": 44.3,
+   "fical expenditure(billion USD)": 53.7
+ },
+ {
+   "Province": "Hubei",
+   "Year": 2017,
+   "Population(million)": 58.5,
+   "fiscal revenue(billion USD)": 46.4,
+   "fical expenditure(billion USD)": 62.5
+ },
+ {
+   "Province": "Hubei",
+   "Year": 2018,
+   "Population(million)": 58.9,
+   "fiscal revenue(billion USD)": 47.2,
+   "fical expenditure(billion USD)": 70.5
+ },
+ {
+   "Province": "Hubei",
+   "Year": 2019,
+   "Population(million)": 59.2,
+   "fiscal revenue(billion USD)": 48.4,
+   "fical expenditure(billion USD)": 87.6
+ },
+ {
+   "Province": "Hunan",
+   "Year": 2012,
+   "Population(million)": 65.7,
+   "fiscal revenue(billion USD)": 25.5,
+   "fical expenditure(billion USD)": 25.2
+ },
+ {
+   "Province": "Hunan",
+   "Year": 2013,
+   "Population(million)": 66,
+   "fiscal revenue(billion USD)": 29,
+   "fical expenditure(billion USD)": 31.6
+ },
+ {
+   "Province": "Hunan",
+   "Year": 2014,
+   "Population(million)": 66.4,
+   "fiscal revenue(billion USD)": 32.3,
+   "fical expenditure(billion USD)": 38.6
+ },
+ {
+   "Province": "Hunan",
+   "Year": 2015,
+   "Population(million)": 66.9,
+   "fiscal revenue(billion USD)": 35.9,
+   "fical expenditure(billion USD)": 50.3
+ },
+ {
+   "Province": "Hunan",
+   "Year": 2016,
+   "Population(million)": 67.4,
+   "fiscal revenue(billion USD)": 38.5,
+   "fical expenditure(billion USD)": 58.8
+ },
+ {
+   "Province": "Hunan",
+   "Year": 2017,
+   "Population(million)": 67.8,
+   "fiscal revenue(billion USD)": 39.4,
+   "fical expenditure(billion USD)": 67
+ },
+ {
+   "Province": "Hunan",
+   "Year": 2018,
+   "Population(million)": 68.2,
+   "fiscal revenue(billion USD)": 40.9,
+   "fical expenditure(billion USD)": 71.7
+ },
+ {
+   "Province": "Hunan",
+   "Year": 2019,
+   "Population(million)": 68.6,
+   "fiscal revenue(billion USD)": 43,
+   "fical expenditure(billion USD)": 81.8
+ },
+ {
+   "Province": "Jilin",
+   "Year": 2012,
+   "Population(million)": 27.5,
+   "fiscal revenue(billion USD)": 14.9,
+   "fical expenditure(billion USD)": 16.9
+ },
+ {
+   "Province": "Jilin",
+   "Year": 2013,
+   "Population(million)": 27.5,
+   "fiscal revenue(billion USD)": 16.5,
+   "fical expenditure(billion USD)": 21.1
+ },
+ {
+   "Province": "Jilin",
+   "Year": 2014,
+   "Population(million)": 27.5,
+   "fiscal revenue(billion USD)": 17.2,
+   "fical expenditure(billion USD)": 25.5
+ },
+ {
+   "Province": "Jilin",
+   "Year": 2015,
+   "Population(million)": 27.5,
+   "fiscal revenue(billion USD)": 17.6,
+   "fical expenditure(billion USD)": 31.5
+ },
+ {
+   "Province": "Jilin",
+   "Year": 2016,
+   "Population(million)": 27.5,
+   "fiscal revenue(billion USD)": 18.1,
+   "fical expenditure(billion USD)": 35.3
+ },
+ {
+   "Province": "Jilin",
+   "Year": 2017,
+   "Population(million)": 27.5,
+   "fiscal revenue(billion USD)": 17.3,
+   "fical expenditure(billion USD)": 39.2
+ },
+ {
+   "Province": "Jilin",
+   "Year": 2018,
+   "Population(million)": 27.3,
+   "fiscal revenue(billion USD)": 17.7,
+   "fical expenditure(billion USD)": 41.6
+ },
+ {
+   "Province": "Jilin",
+   "Year": 2019,
+   "Population(million)": 27.2,
+   "fiscal revenue(billion USD)": 16,
+   "fical expenditure(billion USD)": 46
+ },
+ {
+   "Province": "Jiangsu",
+   "Year": 2012,
+   "Population(million)": 78.7,
+   "fiscal revenue(billion USD)": 83.7,
+   "fical expenditure(billion USD)": 46.4
+ },
+ {
+   "Province": "Jiangsu",
+   "Year": 2013,
+   "Population(million)": 79,
+   "fiscal revenue(billion USD)": 93.8,
+   "fical expenditure(billion USD)": 57.4
+ },
+ {
+   "Province": "Jiangsu",
+   "Year": 2014,
+   "Population(million)": 79.2,
+   "fiscal revenue(billion USD)": 103.3,
+   "fical expenditure(billion USD)": 70.2
+ },
+ {
+   "Province": "Jiangsu",
+   "Year": 2015,
+   "Population(million)": 79.4,
+   "fiscal revenue(billion USD)": 114.7,
+   "fical expenditure(billion USD)": 88.9
+ },
+ {
+   "Province": "Jiangsu",
+   "Year": 2016,
+   "Population(million)": 79.6,
+   "fiscal revenue(billion USD)": 116,
+   "fical expenditure(billion USD)": 100.4
+ },
+ {
+   "Province": "Jiangsu",
+   "Year": 2017,
+   "Population(million)": 79.8,
+   "fiscal revenue(billion USD)": 116.7,
+   "fical expenditure(billion USD)": 111.4
+ },
+ {
+   "Province": "Jiangsu",
+   "Year": 2018,
+   "Population(million)": 80,
+   "fiscal revenue(billion USD)": 123.3,
+   "fical expenditure(billion USD)": 121
+ },
+ {
+   "Province": "Jiangsu",
+   "Year": 2019,
+   "Population(million)": 80.2,
+   "fiscal revenue(billion USD)": 125.7,
+   "fical expenditure(billion USD)": 138.4
+ },
+ {
+   "Province": "Jiangxi",
+   "Year": 2012,
+   "Population(million)": 44.6,
+   "fiscal revenue(billion USD)": 19.6,
+   "fical expenditure(billion USD)": 17.3
+ },
+ {
+   "Province": "Jiangxi",
+   "Year": 2013,
+   "Population(million)": 44.9,
+   "fiscal revenue(billion USD)": 23.2,
+   "fical expenditure(billion USD)": 22.3
+ },
+ {
+   "Province": "Jiangxi",
+   "Year": 2014,
+   "Population(million)": 45,
+   "fiscal revenue(billion USD)": 26.9,
+   "fical expenditure(billion USD)": 27.5
+ },
+ {
+   "Province": "Jiangxi",
+   "Year": 2015,
+   "Population(million)": 45.2,
+   "fiscal revenue(billion USD)": 30.9,
+   "fical expenditure(billion USD)": 36.2
+ },
+ {
+   "Province": "Jiangxi",
+   "Year": 2016,
+   "Population(million)": 45.4,
+   "fiscal revenue(billion USD)": 30.7,
+   "fical expenditure(billion USD)": 43.1
+ },
+ {
+   "Province": "Jiangxi",
+   "Year": 2017,
+   "Population(million)": 45.7,
+   "fiscal revenue(billion USD)": 32.1,
+   "fical expenditure(billion USD)": 49.6
+ },
+ {
+   "Province": "Jiangxi",
+   "Year": 2018,
+   "Population(million)": 45.9,
+   "fiscal revenue(billion USD)": 33.9,
+   "fical expenditure(billion USD)": 55.5
+ },
+ {
+   "Province": "Jiangxi",
+   "Year": 2019,
+   "Population(million)": 46.2,
+   "fiscal revenue(billion USD)": 35.5,
+   "fical expenditure(billion USD)": 63
+ },
+ {
+   "Province": "Liaoning",
+   "Year": 2012,
+   "Population(million)": 43.8,
+   "fiscal revenue(billion USD)": 44.4,
+   "fical expenditure(billion USD)": 30.8
+ },
+ {
+   "Province": "Liaoning",
+   "Year": 2013,
+   "Population(million)": 43.8,
+   "fiscal revenue(billion USD)": 47.8,
+   "fical expenditure(billion USD)": 38.3
+ },
+ {
+   "Province": "Liaoning",
+   "Year": 2014,
+   "Population(million)": 43.9,
+   "fiscal revenue(billion USD)": 45.6,
+   "fical expenditure(billion USD)": 45.7
+ },
+ {
+   "Province": "Liaoning",
+   "Year": 2015,
+   "Population(million)": 43.9,
+   "fiscal revenue(billion USD)": 30.4,
+   "fical expenditure(billion USD)": 55.8
+ },
+ {
+   "Province": "Liaoning",
+   "Year": 2016,
+   "Population(million)": 43.9,
+   "fiscal revenue(billion USD)": 31.4,
+   "fical expenditure(billion USD)": 65.1
+ },
+ {
+   "Province": "Liaoning",
+   "Year": 2017,
+   "Population(million)": 43.8,
+   "fiscal revenue(billion USD)": 34.2,
+   "fical expenditure(billion USD)": 74.2
+ },
+ {
+   "Province": "Liaoning",
+   "Year": 2018,
+   "Population(million)": 43.8,
+   "fiscal revenue(billion USD)": 37.4,
+   "fical expenditure(billion USD)": 72.6
+ },
+ {
+   "Province": "Liaoning",
+   "Year": 2019,
+   "Population(million)": 43.7,
+   "fiscal revenue(billion USD)": 37.9,
+   "fical expenditure(billion USD)": 64
+ },
+ {
+   "Province": "Inner Mongolia",
+   "Year": 2012,
+   "Population(million)": 24.7,
+   "fiscal revenue(billion USD)": 22.2,
+   "fical expenditure(billion USD)": 20.8
+ },
+ {
+   "Province": "Inner Mongolia",
+   "Year": 2013,
+   "Population(million)": 24.8,
+   "fiscal revenue(billion USD)": 24.6,
+   "fical expenditure(billion USD)": 27.5
+ },
+ {
+   "Province": "Inner Mongolia",
+   "Year": 2014,
+   "Population(million)": 24.9,
+   "fiscal revenue(billion USD)": 26.3,
+   "fical expenditure(billion USD)": 32.5
+ },
+ {
+   "Province": "Inner Mongolia",
+   "Year": 2015,
+   "Population(million)": 25,
+   "fiscal revenue(billion USD)": 28.1,
+   "fical expenditure(billion USD)": 42.7
+ },
+ {
+   "Province": "Inner Mongolia",
+   "Year": 2016,
+   "Population(million)": 25.1,
+   "fiscal revenue(billion USD)": 28.8,
+   "fical expenditure(billion USD)": 48.9
+ },
+ {
+   "Province": "Inner Mongolia",
+   "Year": 2017,
+   "Population(million)": 25.1,
+   "fiscal revenue(billion USD)": 24.3,
+   "fical expenditure(billion USD)": 52.7
+ },
+ {
+   "Province": "Inner Mongolia",
+   "Year": 2018,
+   "Population(million)": 25.2,
+   "fiscal revenue(billion USD)": 26.5,
+   "fical expenditure(billion USD)": 55.4
+ },
+ {
+   "Province": "Inner Mongolia",
+   "Year": 2019,
+   "Population(million)": 25.3,
+   "fiscal revenue(billion USD)": 29.4,
+   "fical expenditure(billion USD)": 60.8
+ },
+ {
+   "Province": "Ningxia",
+   "Year": 2012,
+   "Population(million)": 6.3,
+   "fiscal revenue(billion USD)": 3.8,
+   "fical expenditure(billion USD)": 4.6
+ },
+ {
+   "Province": "Ningxia",
+   "Year": 2013,
+   "Population(million)": 6.4,
+   "fiscal revenue(billion USD)": 4.4,
+   "fical expenditure(billion USD)": 6.2
+ },
+ {
+   "Province": "Ningxia",
+   "Year": 2014,
+   "Population(million)": 6.5,
+   "fiscal revenue(billion USD)": 4.9,
+   "fical expenditure(billion USD)": 8
+ },
+ {
+   "Province": "Ningxia",
+   "Year": 2015,
+   "Population(million)": 6.5,
+   "fiscal revenue(billion USD)": 5.3,
+   "fical expenditure(billion USD)": 10.1
+ },
+ {
+   "Province": "Ningxia",
+   "Year": 2016,
+   "Population(million)": 6.6,
+   "fiscal revenue(billion USD)": 5.5,
+   "fical expenditure(billion USD)": 12.3
+ },
+ {
+   "Province": "Ningxia",
+   "Year": 2017,
+   "Population(million)": 6.7,
+   "fiscal revenue(billion USD)": 6,
+   "fical expenditure(billion USD)": 13.2
+ },
+ {
+   "Province": "Ningxia",
+   "Year": 2018,
+   "Population(million)": 6.8,
+   "fiscal revenue(billion USD)": 6.2,
+   "fical expenditure(billion USD)": 14.3
+ },
+ {
+   "Province": "Ningxia",
+   "Year": 2019,
+   "Population(million)": 6.8,
+   "fiscal revenue(billion USD)": 6.1,
+   "fical expenditure(billion USD)": 16.3
+ },
+ {
+   "Province": "Qinghai",
+   "Year": 2012,
+   "Population(million)": 5.6,
+   "fiscal revenue(billion USD)": 2.7,
+   "fical expenditure(billion USD)": 5.2
+ },
+ {
+   "Province": "Qinghai",
+   "Year": 2013,
+   "Population(million)": 5.7,
+   "fiscal revenue(billion USD)": 3.2,
+   "fical expenditure(billion USD)": 7
+ },
+ {
+   "Province": "Qinghai",
+   "Year": 2014,
+   "Population(million)": 5.7,
+   "fiscal revenue(billion USD)": 3.6,
+   "fical expenditure(billion USD)": 10.6
+ },
+ {
+   "Province": "Qinghai",
+   "Year": 2015,
+   "Population(million)": 5.8,
+   "fiscal revenue(billion USD)": 3.8,
+   "fical expenditure(billion USD)": 13.8
+ },
+ {
+   "Province": "Qinghai",
+   "Year": 2016,
+   "Population(million)": 5.8,
+   "fiscal revenue(billion USD)": 3.4,
+   "fical expenditure(billion USD)": 16.6
+ },
+ {
+   "Province": "Qinghai",
+   "Year": 2017,
+   "Population(million)": 5.9,
+   "fiscal revenue(billion USD)": 3.5,
+   "fical expenditure(billion USD)": 17.5
+ },
+ {
+   "Province": "Qinghai",
+   "Year": 2018,
+   "Population(million)": 5.9,
+   "fiscal revenue(billion USD)": 3.9,
+   "fical expenditure(billion USD)": 19.2
+ },
+ {
+   "Province": "Qinghai",
+   "Year": 2019,
+   "Population(million)": 6,
+   "fiscal revenue(billion USD)": 4,
+   "fical expenditure(billion USD)": 21.6
+ },
+ {
+   "Province": "Shandong",
+   "Year": 2012,
+   "Population(million)": 95.9,
+   "fiscal revenue(billion USD)": 58,
+   "fical expenditure(billion USD)": 38.6
+ },
+ {
+   "Province": "Shandong",
+   "Year": 2013,
+   "Population(million)": 96.4,
+   "fiscal revenue(billion USD)": 65.1,
+   "fical expenditure(billion USD)": 46.7
+ },
+ {
+   "Province": "Shandong",
+   "Year": 2014,
+   "Population(million)": 96.9,
+   "fiscal revenue(billion USD)": 71.8,
+   "fical expenditure(billion USD)": 59.2
+ },
+ {
+   "Province": "Shandong",
+   "Year": 2015,
+   "Population(million)": 97.3,
+   "fiscal revenue(billion USD)": 79,
+   "fical expenditure(billion USD)": 71.5
+ },
+ {
+   "Province": "Shandong",
+   "Year": 2016,
+   "Population(million)": 97.9,
+   "fiscal revenue(billion USD)": 83.7,
+   "fical expenditure(billion USD)": 84.4
+ },
+ {
+   "Province": "Shandong",
+   "Year": 2017,
+   "Population(million)": 98.5,
+   "fiscal revenue(billion USD)": 87.1,
+   "fical expenditure(billion USD)": 95.6
+ },
+ {
+   "Province": "Shandong",
+   "Year": 2018,
+   "Population(million)": 99.5,
+   "fiscal revenue(billion USD)": 92.6,
+   "fical expenditure(billion USD)": 102.5
+ },
+ {
+   "Province": "Shandong",
+   "Year": 2019,
+   "Population(million)": 100.3,
+   "fiscal revenue(billion USD)": 93.2,
+   "fical expenditure(billion USD)": 117.9
+ },
+ {
+   "Province": "Shanxi",
+   "Year": 2012,
+   "Population(million)": 35.7,
+   "fiscal revenue(billion USD)": 21.7,
+   "fical expenditure(billion USD)": 18.8
+ },
+ {
+   "Province": "Shanxi",
+   "Year": 2013,
+   "Population(million)": 35.9,
+   "fiscal revenue(billion USD)": 24.3,
+   "fical expenditure(billion USD)": 22.3
+ },
+ {
+   "Province": "Shanxi",
+   "Year": 2014,
+   "Population(million)": 36.1,
+   "fiscal revenue(billion USD)": 26,
+   "fical expenditure(billion USD)": 27.6
+ },
+ {
+   "Province": "Shanxi",
+   "Year": 2015,
+   "Population(million)": 36.3,
+   "fiscal revenue(billion USD)": 23.5,
+   "fical expenditure(billion USD)": 33.8
+ },
+ {
+   "Province": "Shanxi",
+   "Year": 2016,
+   "Population(million)": 36.5,
+   "fiscal revenue(billion USD)": 22.2,
+   "fical expenditure(billion USD)": 39.4
+ },
+ {
+   "Province": "Shanxi",
+   "Year": 2017,
+   "Population(million)": 36.6,
+   "fiscal revenue(billion USD)": 26.7,
+   "fical expenditure(billion USD)": 43.3
+ },
+ {
+   "Province": "Shanxi",
+   "Year": 2018,
+   "Population(million)": 36.8,
+   "fiscal revenue(billion USD)": 32.8,
+   "fical expenditure(billion USD)": 44.1
+ },
+ {
+   "Province": "Shanxi",
+   "Year": 2019,
+   "Population(million)": 37,
+   "fiscal revenue(billion USD)": 33.5,
+   "fical expenditure(billion USD)": 48.9
+ },
+ {
+   "Province": "Shaanxi",
+   "Year": 2012,
+   "Population(million)": 37.4,
+   "fiscal revenue(billion USD)": 22.9,
+   "fical expenditure(billion USD)": 20.4
+ },
+ {
+   "Province": "Shaanxi",
+   "Year": 2013,
+   "Population(million)": 37.4,
+   "fiscal revenue(billion USD)": 25,
+   "fical expenditure(billion USD)": 26.3
+ },
+ {
+   "Province": "Shaanxi",
+   "Year": 2014,
+   "Population(million)": 37.5,
+   "fiscal revenue(billion USD)": 27,
+   "fical expenditure(billion USD)": 31.7
+ },
+ {
+   "Province": "Shaanxi",
+   "Year": 2015,
+   "Population(million)": 37.6,
+   "fiscal revenue(billion USD)": 29.4,
+   "fical expenditure(billion USD)": 41.9
+ },
+ {
+   "Province": "Shaanxi",
+   "Year": 2016,
+   "Population(million)": 37.8,
+   "fiscal revenue(billion USD)": 26.2,
+   "fical expenditure(billion USD)": 47.5
+ },
+ {
+   "Province": "Shaanxi",
+   "Year": 2017,
+   "Population(million)": 37.9,
+   "fiscal revenue(billion USD)": 28.7,
+   "fical expenditure(billion USD)": 52.4
+ },
+ {
+   "Province": "Shaanxi",
+   "Year": 2018,
+   "Population(million)": 38.1,
+   "fiscal revenue(billion USD)": 32,
+   "fical expenditure(billion USD)": 56.6
+ },
+ {
+   "Province": "Shaanxi",
+   "Year": 2019,
+   "Population(million)": 38.3,
+   "fiscal revenue(billion USD)": 32.7,
+   "fical expenditure(billion USD)": 62.5
+ },
+ {
+   "Province": "Shanghai",
+   "Year": 2012,
+   "Population(million)": 23,
+   "fiscal revenue(billion USD)": 53.5,
+   "fical expenditure(billion USD)": 37.1
+ },
+ {
+   "Province": "Shanghai",
+   "Year": 2013,
+   "Population(million)": 23.5,
+   "fiscal revenue(billion USD)": 58.7,
+   "fical expenditure(billion USD)": 42.7
+ },
+ {
+   "Province": "Shanghai",
+   "Year": 2014,
+   "Population(million)": 23.8,
+   "fiscal revenue(billion USD)": 65.5,
+   "fical expenditure(billion USD)": 47.2
+ },
+ {
+   "Province": "Shanghai",
+   "Year": 2015,
+   "Population(million)": 24.2,
+   "fiscal revenue(billion USD)": 78.9,
+   "fical expenditure(billion USD)": 55.9
+ },
+ {
+   "Province": "Shanghai",
+   "Year": 2016,
+   "Population(million)": 24.3,
+   "fiscal revenue(billion USD)": 91.5,
+   "fical expenditure(billion USD)": 59.8
+ },
+ {
+   "Province": "Shanghai",
+   "Year": 2017,
+   "Population(million)": 24.2,
+   "fiscal revenue(billion USD)": 94.9,
+   "fical expenditure(billion USD)": 64.7
+ },
+ {
+   "Province": "Shanghai",
+   "Year": 2018,
+   "Population(million)": 24.2,
+   "fiscal revenue(billion USD)": 101.5,
+   "fical expenditure(billion USD)": 70.3
+ },
+ {
+   "Province": "Shanghai",
+   "Year": 2019,
+   "Population(million)": 24.2,
+   "fiscal revenue(billion USD)": 102.4,
+   "fical expenditure(billion USD)": 88.5
+ },
+ {
+   "Province": "Sichuan",
+   "Year": 2012,
+   "Population(million)": 80.5,
+   "fiscal revenue(billion USD)": 34.6,
+   "fical expenditure(billion USD)": 42.1
+ },
+ {
+   "Province": "Sichuan",
+   "Year": 2013,
+   "Population(million)": 80.5,
+   "fiscal revenue(billion USD)": 39.8,
+   "fical expenditure(billion USD)": 51.3
+ },
+ {
+   "Province": "Sichuan",
+   "Year": 2014,
+   "Population(million)": 80.8,
+   "fiscal revenue(billion USD)": 43.7,
+   "fical expenditure(billion USD)": 60.8
+ },
+ {
+   "Province": "Sichuan",
+   "Year": 2015,
+   "Population(million)": 81.1,
+   "fiscal revenue(billion USD)": 47.9,
+   "fical expenditure(billion USD)": 66.8
+ },
+ {
+   "Province": "Sichuan",
+   "Year": 2016,
+   "Population(million)": 81.4,
+   "fiscal revenue(billion USD)": 48.4,
+   "fical expenditure(billion USD)": 77.9
+ },
+ {
+   "Province": "Sichuan",
+   "Year": 2017,
+   "Population(million)": 82,
+   "fiscal revenue(billion USD)": 51.1,
+   "fical expenditure(billion USD)": 88.9
+ },
+ {
+   "Province": "Sichuan",
+   "Year": 2018,
+   "Population(million)": 82.6,
+   "fiscal revenue(billion USD)": 55.9,
+   "fical expenditure(billion USD)": 97.1
+ },
+ {
+   "Province": "Sichuan",
+   "Year": 2019,
+   "Population(million)": 83.2,
+   "fiscal revenue(billion USD)": 58.2,
+   "fical expenditure(billion USD)": 107.1
+ },
+ {
+   "Province": "Tianjin",
+   "Year": 2012,
+   "Population(million)": 13,
+   "fiscal revenue(billion USD)": 25.1,
+   "fical expenditure(billion USD)": 12.4
+ },
+ {
+   "Province": "Tianjin",
+   "Year": 2013,
+   "Population(million)": 13.6,
+   "fiscal revenue(billion USD)": 29.7,
+   "fical expenditure(billion USD)": 16.1
+ },
+ {
+   "Province": "Tianjin",
+   "Year": 2014,
+   "Population(million)": 14.1,
+   "fiscal revenue(billion USD)": 34.1,
+   "fical expenditure(billion USD)": 19.7
+ },
+ {
+   "Province": "Tianjin",
+   "Year": 2015,
+   "Population(million)": 14.7,
+   "fiscal revenue(billion USD)": 38.1,
+   "fical expenditure(billion USD)": 25.7
+ },
+ {
+   "Province": "Tianjin",
+   "Year": 2016,
+   "Population(million)": 15.2,
+   "fiscal revenue(billion USD)": 38.9,
+   "fical expenditure(billion USD)": 30.6
+ },
+ {
+   "Province": "Tianjin",
+   "Year": 2017,
+   "Population(million)": 15.5,
+   "fiscal revenue(billion USD)": 33,
+   "fical expenditure(billion USD)": 36.4
+ },
+ {
+   "Province": "Tianjin",
+   "Year": 2018,
+   "Population(million)": 15.6,
+   "fiscal revenue(billion USD)": 30.1,
+   "fical expenditure(billion USD)": 41.2
+ },
+ {
+   "Province": "Tianjin",
+   "Year": 2019,
+   "Population(million)": 15.9,
+   "fiscal revenue(billion USD)": 34.4,
+   "fical expenditure(billion USD)": 46.2
+ },
+ {
+   "Province": "Tibet",
+   "Year": 2012,
+   "Population(million)": 3,
+   "fiscal revenue(billion USD)": 1.2,
+   "fical expenditure(billion USD)": 5.4
+ },
+ {
+   "Province": "Tibet",
+   "Year": 2013,
+   "Population(million)": 3,
+   "fiscal revenue(billion USD)": 1.4,
+   "fical expenditure(billion USD)": 6.7
+ },
+ {
+   "Province": "Tibet",
+   "Year": 2014,
+   "Population(million)": 3.1,
+   "fiscal revenue(billion USD)": 1.8,
+   "fical expenditure(billion USD)": 7.9
+ },
+ {
+   "Province": "Tibet",
+   "Year": 2015,
+   "Population(million)": 3.1,
+   "fiscal revenue(billion USD)": 2,
+   "fical expenditure(billion USD)": 10.8
+ },
+ {
+   "Province": "Tibet",
+   "Year": 2016,
+   "Population(million)": 3.2,
+   "fiscal revenue(billion USD)": 2.2,
+   "fical expenditure(billion USD)": 12.9
+ },
+ {
+   "Province": "Tibet",
+   "Year": 2017,
+   "Population(million)": 3.2,
+   "fiscal revenue(billion USD)": 2.7,
+   "fical expenditure(billion USD)": 14.5
+ },
+ {
+   "Province": "Tibet",
+   "Year": 2018,
+   "Population(million)": 3.3,
+   "fiscal revenue(billion USD)": 3.3,
+   "fical expenditure(billion USD)": 16.9
+ },
+ {
+   "Province": "Tibet",
+   "Year": 2019,
+   "Population(million)": 3.4,
+   "fiscal revenue(billion USD)": 3.2,
+   "fical expenditure(billion USD)": 19.7
+ },
+ {
+   "Province": "Xinjiang",
+   "Year": 2012,
+   "Population(million)": 21.9,
+   "fiscal revenue(billion USD)": 13,
+   "fical expenditure(billion USD)": 15.1
+ },
+ {
+   "Province": "Xinjiang",
+   "Year": 2013,
+   "Population(million)": 22.1,
+   "fiscal revenue(billion USD)": 16.1,
+   "fical expenditure(billion USD)": 19.2
+ },
+ {
+   "Province": "Xinjiang",
+   "Year": 2014,
+   "Population(million)": 22.3,
+   "fiscal revenue(billion USD)": 18.3,
+   "fical expenditure(billion USD)": 24.3
+ },
+ {
+   "Province": "Xinjiang",
+   "Year": 2015,
+   "Population(million)": 22.6,
+   "fiscal revenue(billion USD)": 19,
+   "fical expenditure(billion USD)": 32.6
+ },
+ {
+   "Province": "Xinjiang",
+   "Year": 2016,
+   "Population(million)": 23,
+   "fiscal revenue(billion USD)": 18.6,
+   "fical expenditure(billion USD)": 38.9
+ },
+ {
+   "Province": "Xinjiang",
+   "Year": 2017,
+   "Population(million)": 23.6,
+   "fiscal revenue(billion USD)": 21,
+   "fical expenditure(billion USD)": 43.8
+ },
+ {
+   "Province": "Xinjiang",
+   "Year": 2018,
+   "Population(million)": 24,
+   "fiscal revenue(billion USD)": 21.9,
+   "fical expenditure(billion USD)": 47.4
+ },
+ {
+   "Province": "Xinjiang",
+   "Year": 2019,
+   "Population(million)": 24.4,
+   "fiscal revenue(billion USD)": 22.5,
+   "fical expenditure(billion USD)": 54.4
+ },
+ {
+   "Province": "Yunnan",
+   "Year": 2012,
+   "Population(million)": 46,
+   "fiscal revenue(billion USD)": 19.1,
+   "fical expenditure(billion USD)": 21
+ },
+ {
+   "Province": "Yunnan",
+   "Year": 2013,
+   "Population(million)": 46.3,
+   "fiscal revenue(billion USD)": 23,
+   "fical expenditure(billion USD)": 27.9
+ },
+ {
+   "Province": "Yunnan",
+   "Year": 2014,
+   "Population(million)": 46.6,
+   "fiscal revenue(billion USD)": 24.3,
+   "fical expenditure(billion USD)": 32.7
+ },
+ {
+   "Province": "Yunnan",
+   "Year": 2015,
+   "Population(million)": 46.9,
+   "fiscal revenue(billion USD)": 25.8,
+   "fical expenditure(billion USD)": 41.9
+ },
+ {
+   "Province": "Yunnan",
+   "Year": 2016,
+   "Population(million)": 47.1,
+   "fiscal revenue(billion USD)": 25.9,
+   "fical expenditure(billion USD)": 51
+ },
+ {
+   "Province": "Yunnan",
+   "Year": 2017,
+   "Population(million)": 47.4,
+   "fiscal revenue(billion USD)": 26.9,
+   "fical expenditure(billion USD)": 58.5
+ },
+ {
+   "Province": "Yunnan",
+   "Year": 2018,
+   "Population(million)": 47.7,
+   "fiscal revenue(billion USD)": 28.5,
+   "fical expenditure(billion USD)": 63.4
+ },
+ {
+   "Province": "Yunnan",
+   "Year": 2019,
+   "Population(million)": 48,
+   "fiscal revenue(billion USD)": 29.6,
+   "fical expenditure(billion USD)": 67.3
+ },
+ {
+   "Province": "Zhejiang",
+   "Year": 2012,
+   "Population(million)": 54.5,
+   "fiscal revenue(billion USD)": 49.2,
+   "fical expenditure(billion USD)": 31.6
+ },
+ {
+   "Province": "Zhejiang",
+   "Year": 2013,
+   "Population(million)": 54.6,
+   "fiscal revenue(billion USD)": 54.2,
+   "fical expenditure(billion USD)": 37.9
+ },
+ {
+   "Province": "Zhejiang",
+   "Year": 2014,
+   "Population(million)": 54.8,
+   "fiscal revenue(billion USD)": 58.9,
+   "fical expenditure(billion USD)": 45.8
+ },
+ {
+   "Province": "Zhejiang",
+   "Year": 2015,
+   "Population(million)": 55,
+   "fiscal revenue(billion USD)": 68.7,
+   "fical expenditure(billion USD)": 54.9
+ },
+ {
+   "Province": "Zhejiang",
+   "Year": 2016,
+   "Population(million)": 55.1,
+   "fiscal revenue(billion USD)": 75.7,
+   "fical expenditure(billion USD)": 59.5
+ },
+ {
+   "Province": "Zhejiang",
+   "Year": 2017,
+   "Population(million)": 55.4,
+   "fiscal revenue(billion USD)": 82.9,
+   "fical expenditure(billion USD)": 67.6
+ },
+ {
+   "Province": "Zhejiang",
+   "Year": 2018,
+   "Population(million)": 55.9,
+   "fiscal revenue(billion USD)": 94.3,
+   "fical expenditure(billion USD)": 73.7
+ },
+ {
+   "Province": "Zhejiang",
+   "Year": 2019,
+   "Population(million)": 56.3,
+   "fiscal revenue(billion USD)": 100.7,
+   "fical expenditure(billion USD)": 94.9
+ },
+ {
+   "Province": "Chongqing",
+   "Year": 2012,
+   "Population(million)": 28.9,
+   "fiscal revenue(billion USD)": 24.3,
+   "fical expenditure(billion USD)": 14.5
+ },
+ {
+   "Province": "Chongqing",
+   "Year": 2013,
+   "Population(million)": 29.2,
+   "fiscal revenue(billion USD)": 24.2,
+   "fical expenditure(billion USD)": 18.5
+ },
+ {
+   "Province": "Chongqing",
+   "Year": 2014,
+   "Population(million)": 29.5,
+   "fiscal revenue(billion USD)": 27.5,
+   "fical expenditure(billion USD)": 24.4
+ },
+ {
+   "Province": "Chongqing",
+   "Year": 2015,
+   "Population(million)": 29.7,
+   "fiscal revenue(billion USD)": 30.8,
+   "fical expenditure(billion USD)": 36.7
+ },
+ {
+   "Province": "Chongqing",
+   "Year": 2016,
+   "Population(million)": 29.9,
+   "fiscal revenue(billion USD)": 31.8,
+   "fical expenditure(billion USD)": 43.5
+ },
+ {
+   "Province": "Chongqing",
+   "Year": 2017,
+   "Population(million)": 30.2,
+   "fiscal revenue(billion USD)": 32.2,
+   "fical expenditure(billion USD)": 43.7
+ },
+ {
+   "Province": "Chongqing",
+   "Year": 2018,
+   "Population(million)": 30.5,
+   "fiscal revenue(billion USD)": 32.4,
+   "fical expenditure(billion USD)": 47.2
+ },
+ {
+   "Province": "Chongqing",
+   "Year": 2019,
+   "Population(million)": 30.8,
+   "fiscal revenue(billion USD)": 30.5,
+   "fical expenditure(billion USD)": 54.2
+ }
+]

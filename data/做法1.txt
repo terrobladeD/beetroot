@@ -10,16 +10,16 @@ scatter 20XX年财政人口与财政收支对照
 	点大小:省人口
 	做一每年的互动显示
 
-line chart  2000-2020年各省GDP发展
+#line chart  2000-2020年各省GDP发展
 	x-axis: 年份 
 	y-axis: GDP 
 	线:每个省 线可筛选
 
-box plot 20XX年各省人均可支配收入及差距表
+box plot 2020年各省人均可支配收入及差距表
 	x-axis: 省份
 	y-axis: 收入
 	苹果树对应的东西：可支配收入
 	（这个我想了一个造数据的方法）
 
-地图   人均GDP 每年
+#地图   人均GDP 每年
 
