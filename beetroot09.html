@@ -7,9 +7,9 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.22.2"></script>
 </head>
 
-<body>
-    <h1>China Economy Analysis</h1>
-    <h5>Powered by <b>Yi Chen</b></h5>
+<body style="background-color: rgb(246, 241, 247)">
+    <h1 style="text-align: center;">China Economy Analysis</h1>
+    <h5 style="text-align: right;">Powered by <b>Yi Chen</b></h5>
     <div>Year filter
         <input type="range" id="yearSlider" min="2002" max="2019" value="2002" oninput="updateChart()" />
         <span id="selectedYear">2002</span>
@@ -28,7 +28,31 @@
         <div id="vis1" style="width: 52vw;overflow: hidden;"></div>
         <div id="vis3" style="width: 48vw;overflow: hidden;"></div>
     </div>
-    <div id="vis4">
+    <div style="display: flex">
+        <div id="vis4" style="width: 52vw;overflow: hidden;"></div>
+        <div style="width: 48vw;overflow: hidden; padding:0 48px 0 48px">
+            China's economy is characterized by its rapid industrialization and urbanization, leading to significant
+            income disparities across regions. <br /><br /> Coastal areas, benefiting from early reforms and global
+            trade, boast
+            higher income levels compared to the interior regions. <br /><br />Furthermore, China's fiscal policy is
+            marked by a
+            centralized revenue system where provinces vary in their fiscal balances. <br /><br />While some provinces
+            generate
+            surplus revenues, others rely heavily on transfers from the central government to bridge their fiscal
+            deficits.
+        </div>
+    </div>
+    <div>&nbsp;</div>
+    <div>&nbsp;</div>
+    <div>&nbsp;</div>
+    <div>&nbsp;</div>
+
+    <div>
+        *For clarity and conciseness, the line chart selectively features only a few representative provinces.
+        <br />
+        *The bubble chart categorizes provinces based on geographical location, with provinces from the same region
+        sharing a uniform color.
+    </div>
     </div>
 
 
@@ -213,6 +237,7 @@
         const spec = {
             "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
             "title": "China GDP Growth (2000-2019)",
+            "background": "rgb(246, 241, 247)",
             "data": {
                 "values": transformedData
             },
@@ -291,6 +316,7 @@
         const baseSpec = {
             "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
             "title": "China GDP Analysis by Province from 2002-2019",
+            "background": "rgb(246, 241, 247)",
             "width": 1200,
             "height": 700,
             "projection": { "type": "mercator", "center": [104, 37], "scale": 700 },
@@ -3533,6 +3559,7 @@
         const spec3 = {
             "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
             "title": "2022 China Income Distribution by Province",
+            "background": "rgb(246, 241, 247)",
             "data": {
                 "values": transformedData3
             },
@@ -5566,6 +5593,7 @@
                 ]
             },
             "title": "Fiscal Revenue and Expenditure VS Population from 2012-2019",
+            "background": "rgb(246, 241, 247)",
             "padding": {
                 "left": 10,  // padding for y-axis labels
                 "bottom": 30,  // padding for x-axis labels
